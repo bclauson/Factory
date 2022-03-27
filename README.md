@@ -38,7 +38,7 @@
 
 * make sure to install <code> $ dotnet tool install --global dotnet-ef --version 5.0.1 </code>
 * run <code> $ dotnet ef database update </code>
-* Return to the directory in the terminal and input <code> dotnet run <code>
+* Return to the directory in the terminal and input <code> dotnet run </code>
 
 
 <p>&nbsp<p>
